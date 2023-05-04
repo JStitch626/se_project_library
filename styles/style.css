@@ -229,20 +229,22 @@
 
 .staff__title {
   text-align: center;
+  color: #fff;
   font-size: 44px;
   line-height: 52px;
   margin: 0 0 24px;
+
 }
 
 .staff__subtitle {
   text-align: center;
+  color: #fff;
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
   margin: 0;
 }
 
-/* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
 .staff__cards {
   z-index: 1;
   max-width: 760px;
@@ -295,7 +297,6 @@
 .membership {
   padding: 100px 0 140px;
   background-color: #f2f2f2;
-
 }
 
 .membership__title {
