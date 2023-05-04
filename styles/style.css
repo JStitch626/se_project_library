@@ -353,6 +353,7 @@
   line-height: 30px;
   font-weight: 500;
   z-index: 1;
+  max-width: 154px;
 }
 
 .about__content {
@@ -371,6 +372,7 @@
   width: 495px;
   height: 495px;
   border-radius: 50%;
+  
 }
 
 .footer {
