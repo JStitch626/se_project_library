@@ -231,6 +231,7 @@
   font-size: 14px;
   margin: 0;
 }
+
 .staff {
   padding: 100px 0 140px;
   background-image: url(../images/staff_picks_background.jpg);
@@ -381,6 +382,7 @@
 .about__paragraph {
   margin: 0 0 32px;
 }
+
 .about__paragraph:last-child {
   margin: 0;
 }
