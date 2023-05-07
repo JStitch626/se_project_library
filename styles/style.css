@@ -264,6 +264,7 @@
   justify-content: space-evenly;
   gap: 40px;
   list-style-type: none;
+  padding: 0;
 }
 
 .card {
@@ -380,6 +381,9 @@
 .about__paragraph {
   margin: 0 0 32px;
 }
+.about__paragraph:last-child {
+  margin: 0;
+}
 
 .about__circle {
   background-color: #2f80ed;
@@ -439,7 +443,8 @@
 .footer__column-link {
   color: #fff;
   text-decoration: none;
-  margin-right: 0;
+  display: flex;
+  align-items: center;
 }
 
 .footer__column-link:hover {
@@ -453,5 +458,5 @@
 }
 
 .footer__copyright {
-  margin-top: 108px;
+  margin: 108px 0 0;
 }
